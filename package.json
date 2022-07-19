@@ -1,27 +1,27 @@
 {
-    "name": "WK15HW-social-network-api",
+    "name": "social-network-api",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "watch": "nodemon server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "nodemon server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mollygove/WK15HW-social-network-api"
+        "type": "git",
+        "url": "git+https://github.com/mollygove/WK15HW-social-network-api"
     },
     "keywords": [],
     "author": "molly gove",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/mollygove/WK15HW-social-network-api/issues"
+        "url": "https://github.com/mollygove/WK15HW-social-network-api/issues"
     },
     "homepage": "https://github.com/mollygove/WK15HW-social-network-api#readme",
     "dependencies": {
-      "express": "^4.17.1",
-      "moment": "^2.27.0",
-      "mongoose": "^5.10.3",
-      "nodemon": "^2.0.4"
+        "express": "^4.17.1",
+        "moment": "^2.27.0",
+        "mongoose": "^5.13.14",
+        "nodemon": "^2.0.4"
     }
-  }
+}
